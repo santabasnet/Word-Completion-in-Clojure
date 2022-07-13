@@ -1,7 +1,10 @@
 # Word-Completion-in-Clojure
 A dictionary based word auto completion using n-gram analysis in Clojure. This work demonstrates an auto-completion of a word while typing. It is the teaching/learning outcome among developers in a work place. 
-
 -----
+### Problem: 
+Given the set of words in the dictionary [composed from the list of N words], we want to suggest/predict the most likely word after providing some characters input from the keyboard. For more details, please click [here](Problem_1-%20String%20similarity%20for%20auto%20complete%20suggestion..pdf).
+
+
 #### Summary of Discussion. 
 (document as vector of inverted index.)
 	
