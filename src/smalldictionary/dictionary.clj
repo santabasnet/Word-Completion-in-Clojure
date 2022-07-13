@@ -1,3 +1,10 @@
+;;Dictionary Utility Program.
+;;Contains all the dictionary utility functions.
+;;Basically it reads data from the dictionary file and suffle it 
+;;for suggestion purpose.
+;;Author: Santa
+;;Date: 2020-08-10
+
 (ns smalldictionary.dictionary
   (:gen-class)
   (:require [clojure.java.io :as io]))

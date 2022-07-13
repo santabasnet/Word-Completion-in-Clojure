@@ -1,3 +1,9 @@
+;; Vector Utility Program.
+;; Contains all the vectors utility functions for computing
+;; similarity between two strings. 
+;; Author: Santa
+;; Date: 2020-08-10
+
 (ns smalldictionary.vectors
   (:gen-class)
   (:require    [smalldictionary.dictionary :refer :all]

@@ -1,3 +1,8 @@
+;;Main Program
+;;Calls a read_word function, which takes one word from console and suggests the output.
+;;Author: Santa
+;;Date: 2020-08-10
+ 
 (ns smalldictionary.core
   (:gen-class)
   (:require   [smalldictionary.dictionary :refer :all]

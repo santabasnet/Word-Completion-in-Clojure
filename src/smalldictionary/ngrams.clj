@@ -1,3 +1,8 @@
+;;NGram Utility Program.
+;;Contains all the ngram related functions.
+;;Author: Santa
+;;Date: 2020-08-10
+
 (ns smalldictionary.ngrams
   (:gen-class))
 
