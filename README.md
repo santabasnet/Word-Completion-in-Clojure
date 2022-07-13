@@ -54,7 +54,7 @@ Given the set of words in the dictionary [composed from the list of N words], we
 	-----------------------------------------------------------------
   
   #### Complete Source Code is in the current repository. 
-  	[Click Here] (src/smalldictionary)
+  	(src/smalldictionary)
 	
   #### Usage: 
   ```Clojure
